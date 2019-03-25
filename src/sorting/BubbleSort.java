@@ -41,7 +41,7 @@ BubbleSort b=new BubbleSort();
 b.show();
 b.sort();
 b.show();
-		System.out.println("do");
+		System.out.println("d");
 
 	}
 
